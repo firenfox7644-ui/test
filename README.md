@@ -1,3 +1,6 @@
+please modify and update the comments made under the column "update as on 5 may 2026" shared below these are to be further bifrecated into the action item. blocker, task done, pending,  not into very big textual message but in short to be shared with the director of the company in the tabular format
+
+
 PPB	Business Requirement	"Update as on
 5 May 2026 "
 Q4	Enhance App Push Notification and Tracking	Live for both IOS and Android, if this is live whey the status is not changed. No dependencey on the upshot and this is live and this is marked as done
