@@ -1,294 +1,82 @@
-consider the following email chain, draw a table shwoing the time line of Regula. Rohit is myself, Ashwani, nikhil and Gaurav are from procurment team, Alok is from the InfoSec team. i want to give the timeline in tabular form to the stakeholder on showing how infosec reviewing and response is delyaing the complete process.
-Hi Alok
-
-Please find the attached reply from Regula (MRZ – RFP) for your Evaluation. 
-
-With Gratitude
-Rohit Agnihotri
-            
+i need to share th below table with my manager, she needs to know the timeline of the information that was shared with infosec team, n where it is stuck. please regenrate the complete table and modify appropriately if required
 
 
-From: Ashwani Sharma (FIN,ISC) <ASHWANI.SHARMA@goIndiGo.in> 
-Sent: 06 May 2026 14:37
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>
-Cc: Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Nikhil Mittal (FIN,ISC) <NIKHIL.MITTAL@goIndiGo.in>; Gaurav Yadav (FIN,ISC) <Gaurav.Yadav3@goIndiGo.in>
-Subject: RE: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hello Rohit, 
-Please find the attached response from Regula.
-Warm Regards,
-Ashwani Sharma
-Manager – Procurement IT
-+91-9825177597
-www.goIndiGo.in
-
-
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) Rohit.x.Agnihotri@goIndiGo.in 
-Sent: Tuesday, May 5, 2026 9:29 AM
-To: Ashwani Sharma (FIN,ISC) ASHWANI.SHARMA@goIndiGo.in; Nikhil Mittal (FIN,ISC) NIKHIL.MITTAL@goIndiGo.in; Gaurav Yadav (FIN,ISC) Gaurav.Yadav3@goIndiGo.in
-Cc: Rinika Gautam (Digital,ISC) Rinika.Gautam@goIndiGo.in
-Subject: FW: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hi Team
-Please request Regula ( MRZ -RFP) to provide the following information/documents as requested by the Infosec team before proceeding further in the RFP process. 
-Please note that the following reports / certificates are not evidences. Please provide a copy of the certificate / status of the same. 
-Also , copy of Policy/ Process is not evidenced as per requirement of the parameters. 
-ISO 27701 Privacy Information Management System  
-ISO 22301 Business Continuity Management System  
-Data Privacy Assessments (GDPR, DPDP, CCPA, HIPAA, POPIA)
-Third-Party VAPT Reports (Application and Infrastructure)
-Penetration Testing Reports (Internal & External)  
-Data Flow Diagram
-Network Architecture Diagram
-
-Please share the above mentioned details to close the assessment. 
-
-
-
-With Gratitude
-Rohit Agnihotri
-            
-
-
-From: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in> 
-Sent: 04 May 2026 17:52
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>
-Cc: Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: RE: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hello Rohit,
-Please note that the following reports / certificates are not evidences. Please provide a copy of the certificate / status of the same. 
-Also , copy of Policy/ Process is not evidenced as per requirement of the parameters. 
-ISO 27701 Privacy Information Management System  
-ISO 22301 Business Continuity Management System  
-Data Privacy Assessments (GDPR, DPDP, CCPA, HIPAA, POPIA)
-Third-Party VAPT Reports (Application and Infrastructure)
-Penetration Testing Reports (Internal & External)  
-Data Flow Diagram
-Network Architecture Diagram
-
-Please share the above mentioned details to close the assessment. 
-
-Regards
-Alok 
-
-
-
-
-
-
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotr
-i@goIndiGo.in> 
-Sent: Monday, April 20, 2026 10:01 AM
-To: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in>
-Cc: Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: FW: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hi Alok
-Please find the reply from Regula for MRZ - RFP
-
-With Gratitude
-Rohit Agnihotri
-            
-
-
-From: Ashwani Sharma (FIN,ISC) <ASHWANI.SHARMA@goIndiGo.in> 
-Sent: 20 April 2026 09:46
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>; Nikhil Mittal (FIN,ISC) <NIKHIL.MITTAL@goIndiGo.in>
-Cc: Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Gaurav Yadav (FIN,ISC) <Gaurav.Yadav3@goIndiGo.in>
-Subject: RE: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hello Team
-Please find the attached response from Regula.
-
-Warm Regards,
-Ashwani Sharma
-Manager – Procurement IT
-+91-9825177597
-www.goIndiGo.in
-
-
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in> 
-Sent: Tuesday, April 7, 2026 6:12 PM
-To: Nikhil Mittal (FIN,ISC) <NIKHIL.MITTAL@goIndiGo.in>; Ashwani Sharma (FIN,ISC) <ASHWANI.SHARMA@goIndiGo.in>
-Cc: Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Gaurav Yadav (FIN,ISC) <Gaurav.Yadav3@goIndiGo.in>
-Subject: FW: Pre onboarding security assessment – Regula Forensics Inc.
-
-Hi Team
-Please find the note below from the InfoSec team.
-Subject line changed from Security Review & Vendor Rating Request and RFP details  - MRZ Scan to Pre onboarding security assessment – Regula Forensics Inc.
-Please use correct assessment sheet (attached herewith for reference) and share required evidence accordingly .
-A  short discussion call may be required upon receipt of the documents.
-
-With Gratitude
-Rohit Agnihotri
-            
-
-
-From: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in> 
-Sent: 07 April 2026 17:05
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>
-Cc: Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Navdeep Singh (Digital,ISC) <Navdeep.Singh2@goIndiGo.in>; Ankit Yadav (Digital,ISC) <Ankit.Yadav7@goIndiGo.in>; Shishir Upadhyay (Digital,ISC) (X-IGT) <Shishir.x.Upadhyay@goIndiGo.in>; Gaurav Gupta (Digital,ISC) <Gaurav.Gupta9@goIndiGo.in>
-Subject: RE: Pre onboarding security assessment – Regula Forensics Inc.
-
-Subject line changed from Security Review & Vendor Rating Request and RFP details  - MRZ Scan to Pre onboarding security assessment – Regula Forensics Inc.
-Hello Rohit,
-Pre Onboarding assessment on Regula Forensics Inc. is in progress. Please use correct assessment sheet (attached herewith for reference) and share required evidence accordingly .
-A  short discussion call may be required upon receipt of the documents.
-For any query, let me know.
-Regards
-Alok 
-
-
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in> 
-Sent: Friday, April 3, 2026 11:40 AM
-To: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in>
-Cc: Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Navdeep Singh (Digital,ISC) <Navdeep.Singh2@goIndiGo.in>; Ankit Yadav (Digital,ISC) <Ankit.Yadav7@goIndiGo.in>
-Subject: RE: Security Review & Vendor Rating Request and RFP details - MRZ Scan
-
-Hi Alok 
-Please find the link to the folder containing the InfoSec documents for the MRZ Scan RFP. You are requested to kindly share your ratings based on the information available. In case any additional information is required, please let us know.
-Technical Proposal
-
-With Gratitude
-Rohit Agnihotri
-            
-
-
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) 
-Sent: 25 March 2026 14:36
-To: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@GoIndigo.in>
-Cc: Subham Srivastava (Digital,ISC) <SUBHAM.SRIVASTAVA@GOINDIGO.IN>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Rajat Upreti (Digital,ISC)(X-KPMG) <Rajat.x.Upreti@GoIndigo.in>
-Subject: FW: Security Review & Vendor Rating Request and RFP details - MRZ Scan
-
-Dear Alok
-
-Please find the Inherent risk calculator shared for MRZ scan RFP. Kindly share the Infosec related file earliest
-
-Vendor RFP Details 
-S.No	Vendor Name	Department 	Vertical name	RFP initiation date	Demand number	SR Number (Sourcing request number in Ariba)	RFC Purpose (New requirement/ Replacement of existing system)	RFP summary 	Remarks (if any)	 
-1	Airware	 WnM
- 
- 	 Sunil Kumar
- 
- 	 16 March 2026
- 
- 	 N/A
- 
- 	 SR2069233545
- 
- 	 New Requirement
- 
- 	 key objectives: 
-1.	Enable automated travel document scanning through Mobile and Web SDK 
-2.	Ensure travel eligibility & regulatory compliance basis destination 
-3.	Improve passenger experience during check in on IndiGo D2C platform 
- 
- 
- 	 	 
-2	Zamna								 	 
-3	Regula								 	 
-4	IATA									
-
-With Gratitude
-Rohit Agnihotri
-            
-
-From: Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in> 
-Sent: 25 March 2026 14:33
-To: Rajat Upreti (Digital,ISC)(X-KPMG) <Rajat.x.Upreti@goIndiGo.in>; Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>
-Cc: Navdeep Singh (Digital,ISC) <Navdeep.Singh2@goIndiGo.in>; Swati Kothiyal (Digital,ISC) <Swati.Kothiyal@goIndiGo.in>; Ankit Yadav (Digital,ISC) <Ankit.Yadav7@goIndiGo.in>; Sunil Kumar (Digital,ISC) <Sunil.Kumar17@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: Re: Security Review & Vendor Rating Request and RFP details 
-
-Hi @Rajat Upreti (Digital,ISC)(X-KPMG), 
-PFA the inherent risk tracker
-
-From: Rajat Upreti (Digital,ISC)(X-KPMG) <Rajat.x.Upreti@goIndiGo.in>
-Date: Monday, 23 March 2026 at 5:40 PM
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>, Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>
-Cc: Navdeep Singh (Digital,ISC) <Navdeep.Singh2@goIndiGo.in>, Swati Kothiyal (Digital,ISC) <Swati.Kothiyal@goIndiGo.in>, Ankit Yadav (Digital,ISC) <Ankit.Yadav7@goIndiGo.in>, Sunil Kumar (Digital,ISC) <Sunil.Kumar17@goIndiGo.in>, Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: RE: Security Review & Vendor Rating Request and RFP details 
-Hi @Rohit Agnihotri (Digital,ISC)(X-IGT Solutions),
-Will share this by tomorrow.
-
-@Subham Srivastava (Digital,ISC), as discussed I would need your help for filling these details.
-Regards,
-Rajat
- 
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in> 
-Sent: Friday, March 20, 2026 5:20 PM
-To: Rajat Upreti (Digital,ISC)(X-KPMG) <Rajat.x.Upreti@goIndiGo.in>
-Cc: Navdeep Singh (Digital,ISC) <Navdeep.Singh2@goIndiGo.in>; Swati Kothiyal (Digital,ISC) <Swati.Kothiyal@goIndiGo.in>; Ankit Yadav (Digital,ISC) <Ankit.Yadav7@goIndiGo.in>; Sunil Kumar (Digital,ISC) <Sunil.Kumar17@goIndiGo.in>; Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: FW: Security Review & Vendor Rating Request and RFP details 
- 
-Dear Rajat
- 
-Please complete the Inherent Risk Calculator sheet and share it with us. This will be used to generate the Information Security document, which will later be sent to the vendor for completion.
- 
-Vendor RFP Details 
-S.No	Vendor Name	Department 	Vertical name	RFP initiation date	Demand number	SR Number (Sourcing request number in Ariba)	RFC Purpose (New requirement/ Replacement of existing system)	RFP summary 	Remarks (if any)	 
-1	Airware	 WnM
- 
- 	 Sunil Kumar
- 
- 	 16 March 2026
- 
- 	 N/A
- 
- 	 SR2069233545
- 
- 	 New Requirement
- 
- 	 key objectives: 
-Enable automated travel document scanning through Mobile and Web SDK 
-Ensure travel eligibility & regulatory compliance basis destination 
-Improve passenger experience during check in on IndiGo D2C platform 
- 
- 
- 	 	 
-2	Zamna								 	 
-3	Regula								 	 
-4	IATA								 	 
- 
- 
-From: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in> 
-Sent: 20 March 2026 15:20
-To: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in>; Divydeep Kachhawaha (Digital,ISC) <Divydeep.Kachhawaha1@goIndiGo.in>
-Cc: Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>; Gaurav Gupta (Digital,ISC) <Gaurav.Gupta9@goIndiGo.in>
-Subject: RE: Security Review & Vendor Rating Request and RFP details 
- 
-Hello all,
-As discussed, Please find attached herewith Inherent Risk calculator to be filled by you. 
- On the basis of this sheet I’ll share Pre assessment sheet for vendor. 
-Additionally, Please provide details in the below mentioned table “Vendor RFP details”. It is helpful to maintain security evaluation records.  
-Vendor RFP Details 
-S.No	Vendor Name	Department 	Vertical name	RFP initiation date	Demand number	SR Number (Sourcing request number in Ariba)	RFC Purpose (New requirement/ Replacement of existing system)	RFP summary 	Remarks (if any)	 
-1	 	 	 	 	 	 	 	 	 	 
-2	 	 	 	 	 	 	 	 	 	 
-3	 	 	 	 	 	 	 	 	 	 
-   
-For any query, let me know.
-Regards 
-Alok 
- 
-From: Rohit Agnihotri (Digital,ISC)(X-IGT Solutions) <Rohit.x.Agnihotri@goIndiGo.in> 
-Sent: Friday, March 20, 2026 12:29 PM
-To: Alok Sharma (Digital,ISC)(X-Adecco) <Alok.x.Sharma1@goIndiGo.in>
-Cc: Divydeep Kachhawaha (Digital,ISC) <Divydeep.Kachhawaha1@goIndiGo.in>; Subham Srivastava (Digital,ISC) <Subham.Srivastava@goIndiGo.in>; Rinika Gautam (Digital,ISC) <Rinika.Gautam@goIndiGo.in>
-Subject: Security Review & Vendor Rating Request
-Importance: High
- 
-Hi Alok,
-Request your support in reviewing and rating the following vendors based on the information shared.
-The Architecture Checklist and Cloud Security documents have been shared for your assessment. Please provide your ratings.
-Vendors:
-a.	Plotline
-b.	Pushwoosh
-c.	Upshot
- 
-With Gratitude
-Rohit Agnihotri
-            
- 
- 
-
+Request	Procurment Personnel	RFP Name	Vendor Name	Timelines							
+InfoSec	Ashwani	MRZ Scan	Regula Forensics Inc.	", April 3, 2026 11:40 AM
+Document shared for Evaluation"	"07 April 2026 17:05
+assessment sheet shared"	"20 April 2026 09:46
+reply from Regula on assessmen sheet"	"04 May 2026 17:52
+Policy/ Process is not evidenced "	"06 May 2026 14:37
+Respose received pending for Infosec evaluation"			
+InfoSec	Ashwani		IATA	", April 3, 2026 11:40 AM
+Document shared for Evaluation"	"07 April 2026 17:05
+relationship  with DAON - clarification requested by Infosec"	": 09 April 2026 10:21
+Response on DAON"	"30 april 2026
+, Please share latest VAPT reports (IOS, android etc.) "	"30 april 2026
+Requested via procurement IATA asks "	"6 may 2026 
+included in IATA call for discusion"		
+InfoSec	Ashwani		Airware Solutions Ltd	", April 3, 2026 11:40 AM
+Document shared for Evaluation"	"07 April 2026 17:05
+assessment sheet "	"15 April 2026 09:34
+Response on Assessment sheet"	"30 April 2026 15:40
+documents / reports  Pending"	"06 May 2026 15:40
+response received on pending documents"			
+InfoSec	Ashwani		Zamna Technologies Ltd. 	", April 3, 2026 11:40 AM
+Document shared for Evaluation"	"07 April 2026 17:05
+Documents/Evidences "	"13 April 2026 12:55
+response received"	"05 May 2026 17:48
+Evaluation : attention required by Infosec"	" 05-05-2026 18:12
+Addional document requested  from vendor"			
+InfoSec	Ashwani	Entity-Identity	Lagozon Technologies Pvt. Ltd.	"06 April 2026 17:00
+remarks required"	"13 April 26 13:17
+response received from vendor
+"	"16 April 2026 16:23
+no certificate/ required evidence is evidenced"	"April 17, 2026 5:47:42 PM
+Infosec listed missing certificates"	"28 April 2026 10:00
+response from vendor on missing certificate"	28 April 2026 13:05 infosec rating attention required	"05 May 2026 10:10
+response from vendor . Pending infosec review"	
+InfoSec	Ashwani		Binario Technologies Private Limited	" 6 april , 2026 4:45 PM
+remarks required"	"21 April 2026 13:33
+Procurment: not received any response from Binario "	"27 April 2026 15:01
+infosec valuation : Non-Compliant."	05 May 2026 14:26 reply received from binario shared with infosec 				
+InfoSec	Ashwani		ROSTAN Technologies Pvt. Ltd.	"April 6, 20
+ 4:40 PM
+Remarks Required"	"17 April 2026 15:33
+reply from vendor received"	"27 April 2026 17:45
+valuation done by infosec attention required"	"April 30, 2026 4:56 PM
+Additiona document requested"	": 05 May 2026 10:12
+reply received from vendor"			
+InfoSec	Nikhil	ITSM	Capgemini	"April 8, 2026 10:18 AM
+Documents shared for evaluation"	"April 21, 2026 6:39 PM
+Missing certificates"	"27 April 2026 13:35
+Documents received"	"Mon 28-04-2026 19:04
+Infosec valuation rejected by Procurment"	"01 May 2026
+Additonal documents requested"			
+	Nikhil		Cognizant	"April 8, 2026 10:18 AM
+Documents shared for evaluation"	"24 April 2026 15:48
+Valuation: Attention required"	"Mon 28-04-2026 19:04
+Infosec valuation rejected by Procurment"	"30 April, 2026 3:39 PM
+Additional document requrested"	"01 May 2026 16:06
+cognizant team requested Infosec meeting"			
+	Nikhil		Hexaware 	"April 8, 2026 10:18 AM
+Documents shared for evaluation"	"22-04-2026  17:24:00
+Valuation: Attention required"	"Mon 28-04-2026 19:04
+Infosec valuation rejected by Procurment"	"30 April, 2026 3:39 PM
+Additional document requrested"				
+	Nikhil		StatusNeo	"April 8, 2026 10:18 AM
+Documents shared for evaluation"	"April 20, 2026 10:29 AM
+Meeitng with Business stakholder to understand infosec requirements"	"27-04-2026  13:05:00
+Valuation: Attention required"	"Mon 28-04-2026 19:04
+Infosec valuation rejected by Procurment"	"30 April, 2026 3:39 PM
+Additional document requrested"	"01 May 2026 16:06
+Statusneo team requested Infosec meeting"		
+	Nikhil		KPMG	"April 8, 2026 10:18 AM
+Documents shared for evaluation"	"April 22, 2026 5:53:51 pm
+KPMG to provide parameter specific response alongwith appropriate evidences "	"23 April 2026 12:35
+Response received from KPMG
+"	"27 April 2026 12:08
+Valuation: Attention required
+"	"Mon 28-04-2026 19:04
+Infosec valuation rejected by Procurment"	"30 April, 2026 3:39 PM
+Additional document requrested"	"04 May 2026 12:31
+KPMG response with additional documents"	
