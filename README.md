@@ -1,5 +1,1 @@
-Please also help update and generate the existing NFA. Initially story was around cost saving but now it needs to be around:
- 
--Why & how CapG is a superior PRODUCT
--How it helps us in achieving our larger objectives
--How using this solution’s agentic platform we can capitalize on creating next gen digital solutions [MORE AI Focused NFA story with no human dependency]
+can you please make it concise capturing key points.. Senior folks don't have time to read such lengthy explanations. currently it's 8 pages.. please make it max 2 pages. solid 3-4 bullet points on value proposition rather than 8-10 bullets
