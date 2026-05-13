@@ -1,13 +1,5 @@
-We currently use the following Adobe products, all of which are up for renewal:
-•	Adobe Analytics
-•	Adobe Campaign
-•	Adobe Target
-•	Adobe AEM
-
-While the renewal discussions are underway with the procurement teams, we need to initiate parallel internal work for an RFP to evaluate migration away from all of the above platforms.
-
-Subham is setting up a meeting with Sanjeev and Navdeep this Thursday. Please plan to be part of this discussion, with a clearly defined agenda focused on next steps.
-Please help mwith the following points As a priority, we need to:
-•	Identify potential alternative platforms for each product
-•	Assess feasibility and implications of migration
-•	Align on a clear, time bound plan forward
+Please also help update and generate the existing NFA. Initially story was around cost saving but now it needs to be around:
+ 
+-Why & how CapG is a superior PRODUCT
+-How it helps us in achieving our larger objectives
+-How using this solution’s agentic platform we can capitalize on creating next gen digital solutions [MORE AI Focused NFA story with no human dependency]
