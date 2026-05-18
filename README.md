@@ -1,4 +1,8 @@
-please help in drafting the text to be shared with the IndiGo chairman RFP annual operating Plan for the future.
-it should be such that it must show the top management that our RFP process is the integral and most important part of the Indigo eco system. otherwise management would stop the department and i will loose my job.
-it must disclose the that we have setup the process which was not earlier present. like we have increased the quality check of the RFP float within the department. so that it is not rejected for its content or quality. not only this, we assist department with the clear requirements of procurements, contract, laws, and its effect on rfp. we organize meeting between vendors and departments for demo, clarification meetings for various rfp issue.
-and add your own observation. all this information need to be added in the one page power point slide. please help me and save my job
+Please consolidate the comments (suggested action to be taken by department) to be shared with the Indigo legal team on the reviews shared by the different department in the word document shared herewith. 
+
+Rinika Gautam - User team
+Gaurav Yadav - Procurement team
+Cherry Jawa - Finance team
+Prashant Mishra1 - InfoSec team.
+
+These consoliated requirement need to be share with the Legalteam. please compile them in the tabular format.
