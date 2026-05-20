@@ -1,1 +1,1 @@
-please make a table showing the new clauses/changes which are added in the word document, which are not available in the pdf file. please help
+consider the content of teh adobe_DX without mentioning the Cost and related details, which later fill by my manger.. please fill the NFA doc
