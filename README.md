@@ -1,9 +1,16 @@
-My manager is after my life, she thinks i write lots of stories in RFP by doing copy paste, she need the complete rfp to be to the point, as this will go to the CEO and they dont have time to ready the stories and long pointers. please modify the complete rfp. and add in  Key evaluation observations favoring Plotline a table S.NO	Evaluation Criteria	weight	Pushwoosh Score	Plotline Score	Upshot Status
-1	In-app Engagement & Experience Delivery	10%	6%	10%	10%
-2	No Code / Low Code Experience Management	12%	4%	10%	6%
-3	CDP Driven Personalization	5%	3%	5%	2%
-4	Experimentation & Optimization	10%	5%	10%	2%
-5	Context Aware UI Personalization	5%	2%	5%	3%
-6	Offline & Connectivity Handling                                                                                          	4%	2%	4%	4%
-7	Personalized Loyalty Experience	4%	2%	4%	3%
-showing the high level comparision , removing repatative words and sentences. make it short , concise.
+you are requested to generate the evaluation matrix based on the rfp shared. in the given below format with the suggested headings and sub heading. functional and technical evaluation sections should be seperate. later on i will share the documents containing the proofs: 
+	S. No.	Evaluation Area	Functional Requirement	Detailed Evaluation Criteria	Evidence Expected from Vendor
+Functional Evaluation					
+Core Business Fitment and Identity Resolution Capability					
+Data Quality, Standardization and Synchronization					
+Downstream Integration and Operational Data Usage					
+Requirement Management, Functional Design and Traceability					
+Testing, UAT and Go-Live Functional Readiness					
+Technical Evaluation					
+Architecture & Platform Design					
+Data Architecture & Management					
+Integration & Interoperability					
+Security & Compliance Architecture					
+Performance, Availability & Reliability					
+ DevOps, Testing & Release Engineering					
+<img width="481" height="472" alt="image" src="https://github.com/user-attachments/assets/207b205d-4a8d-4781-9286-2a10f4d2f6fc" />
