@@ -1,5 +1,7 @@
-Consider the following content and use this as a basis to fill the annual plant
+Consider the following content and use this as a basis to fill the annual plan format as provide below: Initiatives/Project/Demand	Project/Demand ID/BAU	Start Date	End Date	Business KPI	Current Status	KPI Planned
+<img width="561" height="152" alt="image" src="https://github.com/user-attachments/assets/56d57b1c-ce85-46dc-afd2-2cdbbd51a8d7" />
 
+consider the following information as a baisis to create the annual plan
 
 S.NO	RFP Stages/RFP's	MRZ SDK	ITSM Automation (Negotiated Time)	In App Engagement	Entity Identity Resolution Utility	(CX) Feedback & Frontline Behavioural Analytics Platform (Qualtic) 	Digital Content Management Website and Mobile app
 		(Airware SDK) *					(Re-Revised)
