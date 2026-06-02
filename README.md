@@ -1,1 +1,2 @@
-following commercial proposal has been submitted by the vendor. please generate the table showing the detailed comparision between these three so that this can help to the business/ stakeholders to take action.
+Please consider the contents of the presentation. don't be genric. and please create the table of annual plan in the tabular format which must be of 1 slide only. 
+Initiatives/Project/Demand	Project/Demand ID/BAU	Start Date	End Date	Business KPI	Current Status	KPI Planned
