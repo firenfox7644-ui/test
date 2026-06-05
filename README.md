@@ -1,1 +1,1 @@
-can you please quickly summarize RFP progress?
+act like expert note for approval document drafter, strickly follow the tone and format of the nfa shared for the exceptional approval, in the same way a seperate nfa is required to be created following the same format. please strickly focus on the grammer, punctuations etc. as the indigo CEO;s are very fuzzy, i will share you further documents basis which you are requested to modify the document
