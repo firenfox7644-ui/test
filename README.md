@@ -1,1 +1,1 @@
-from the point of procurment department, CEO, analyse the attached document, check for error repitation, duplication. and suggest the final draft 
+from the point of view of business please prepare Vendor Offer Comparison (As per submitted proposals) only from the data shared in the pdf files as attached. which should help business to understand the vendors commercial and to take decision
