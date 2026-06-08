@@ -1,2 +1,5 @@
-Act like expert note for appoval drafter, follow the format and tone strickly as suggested in the sample doc attached here with along with the main PDF files containing the commercial recieved from the three vendors.  You are requrest to compare al lthe three vendors basis the services and terms and conditions.  Even though pushwoosh is T1 ( means commercially chepeast) but we need to select plotline, even though its t2. we need to give very very strong reason to the management, why we dont want to go with the chepeast one. and also what will be ROI of the additional expense made toward t2. the procurment head is very fuzzy and very critical when it comes to approving the nfa. please help to draft the nfa in not more then 2 pages, that he dont have reasons to reject it
+please add the one lineJusitifed due to... as suggested by procurement team no stories to be written here, as the same will be read by the CEO
 
+the Approval is sought to award the contract to Plotline (L2) over Pushwoosh (L1).
+While Plotline entails a higher cost of ₹1.94 Cr over 3 years (₹5.39 Lakhs/month), the premium is justified due to……
+Plotline is recommended in the overall business interest.
