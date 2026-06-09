@@ -1,5 +1,1 @@
-please add the one lineJusitifed due to... as suggested by procurement team no stories to be written here, as the same will be read by the CEO
-
-the Approval is sought to award the contract to Plotline (L2) over Pushwoosh (L1).
-While Plotline entails a higher cost of ₹1.94 Cr over 3 years (₹5.39 Lakhs/month), the premium is justified due to……
-Plotline is recommended in the overall business interest.
+please validate the excel sheet calculation that Price Comparison  tab is correctly computed from the data dervied from the pdf files shared with you. if there is a difference in calculation. please identify the gaps in the tabular format.  also create the a new table which correctly identify and defines the costs of each vendor per year for 3 years in detail
