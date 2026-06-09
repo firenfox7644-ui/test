@@ -1,1 +1,4 @@
-please validate the excel sheet calculation that Price Comparison  tab is correctly computed from the data dervied from the pdf files shared with you. if there is a difference in calculation. please identify the gaps in the tabular format.  also create the a new table which correctly identify and defines the costs of each vendor per year for 3 years in detail
+Can you please help with a proper justification a clear ROI metrics? If an additional 1.94 Cr is requested over a 3-year period (i.e. approximately 64 lakh annually), we need to clearly highlight the expected ROI from Plotline compared to PurpleTalk.
+
+While we are highlighting (subjective) strong strategic fitment, NFA does not sufficiently quantify the impact on conversion. So, please share detailed calculations outlining the projected conversion uplift with Plotline vs. PurpleTalk, and how this improvement justifies both the vendor selection and the additional investment.
+
