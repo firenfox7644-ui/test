@@ -1,1 +1,1 @@
-please take a guidance on the SLA as shared in the attached document. you are requested further to wait for my further instrucions.
+please provide SLA PENALTY CRITERIA section for the current RFP based on the information shared with you in the earlier attached legal master file
