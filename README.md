@@ -1,1 +1,1 @@
-Act like senior expert in evaluating the RFP document i have shared here. Critically evaluate the content of the document. identifying the gaps and duplicacy. provide the observation in tabular format by refering the section of the document. since this need to be floated to the vendor please be careful. 
+consider strictly the format and tone of the RFP as shared herewith and wait for my further instructions.
