@@ -1,1 +1,1 @@
-In the various part of the RFP only bullet points are mentioned in Enterprise digital analytic RFP, but when you compare with the RFP_expermentation files shared with you. it explain beatifully points and subpoints like 1. 1.1 followed by use case demostration. following that pattern of presenation. you are requested to modify the complete Enterprise digital analytic rfp
+please take a guidance on the SLA as shared in the attached document. you are requested further to wait for my further instrucions.
