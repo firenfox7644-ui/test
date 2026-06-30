@@ -1,13 +1,16 @@
-Please provide the evualtion based on the documents shared for technical and functional evuation in the below format. give me the final result
+Act like an senior expert of project management, help me with the below reuirements;
+1.	Connections Enhancement Plan_v1.0 : will be for Summi, Charu, Sunil & Navdeep --- with resource planning especially
+2.	Dependencies – for internal stakeholders – App, PSS and I need for the complete project as this is only for Quick wins. 
+3.	Connection Product Draft – is the proposed project.
+4.	Program Plan – I would like to share it with All stakeholders – internal and external both – need more refined. This is what I want to send to on the below email.
 
-Rating	Meaning	Score
-NC	Not Capable	0
-PC	Partially Capable	1
-C	Capable	3
-<img width="378" height="113" alt="image" src="https://github.com/user-attachments/assets/3e9dfb4c-6ee7-499f-9b95-a67a4610a9d9" />
+Dear All,
 
+We are initiating a project to enhance the customer experience for connecting journeys by creating a differentiated connecting flight product. The objective is to reduce customer anxiety, improve the overall travel experience, and enhance customer satisfaction (NPS).
 
-							IndiGo Score	Total Score	Justification Comments
-	S. No.	Evaluation Area	Functional Requirement	Detailed Evaluation Criteria	Evidence Expected from Vendor	"Overall IndiGo 
-Weights"	Qualtrics	Qualtrics	Qualtrics
-<img width="2150" height="131" alt="image" src="https://github.com/user-attachments/assets/2860fcd0-e143-4a65-88ad-23f9143626e5" />
+During the initial discussions, we identified several opportunities for improvement across the Website, Mobile App, operational processes, and SOPs. These initiatives will require detailed discussions, solution design, UAT, and cross-functional collaboration before implementation.
+
+To ensure smooth execution, we request each department to nominate a SPOC who will work closely with the CX team throughout the project.
+
+We look forward to your support and request you to share the SPOC details at the earliest.
+
