@@ -1,1 +1,1 @@
-Consider the format of the ealuation matrix shared with you, you have to strickly follwo the format for both Technical and evalaution matrix. 
+act like expert senior RFP evaluator, please provide the tehnical and functional evaluation seperately based only on the contents of the rfp shared herewith. each technial and funcitional evaluation rows must not exceed 70 in counts. how every they can below it if required. but avoid un necessary duplicate asks.
