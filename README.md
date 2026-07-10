@@ -1,1 +1,1 @@
-Consider the content of teh RFP shared. considering its content, Do we have very clear Adobe Analytics vs Google Analytics, and Customer Journey Analytics vs Google Analytics comparison? Can you please check analytics RFP scope and help create one?
+can you expand more on the limited GA capabilities and why that is the risk
