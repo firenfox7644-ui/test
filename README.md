@@ -1,1 +1,1 @@
-please consider the contract background details and help me from the business point of view to fill the data processing agreement template.
+Please consider the content of the RFP and the details of the Sourcing requestin in Ariba and fill the information in the BusinessCase_PMO word document with details
