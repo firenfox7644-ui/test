@@ -1,6 +1,7 @@
-Act like an senior expert, from the stand point view of vendor, crticially examin the rfp specifically for I.	OBJECTIVE	5
-II.	CRITICAL CAPABILITIES & HIGH-LEVEL SCOPE OF WORK	5
-III.	FUNCTIONAL DETAILED REQUIREMENTS	7
-IV.	NON-FUNCTIONAL DETAILED REQUIREMENTS	14
-V.	VENDOR CAPABILITY AND INFORMATION SOLICITED.	
-present your observation in the tabular format, refering to the portion of the rfp which is crtically examin by you
+consider the content of the RFP and answer the below questions: 
+1.           Detailed service description as to what the service engagement is all about
+2.           What all IndiGo data vendor will have access to? Specify the data elements i.e. name, email address, phone number, etc. 
+3.           Does the service include any application? If so, where is that application hosted, On-Prem (within IndiGo environment) or externally hosted (within Vendor’s environment)?
+4.           Will the vendor have access to any IndiGo systems/network? 
+5.           How would IndiGo data be accessed by the vendor? 
+6.           Filled vendor / supplier contract background form if available
