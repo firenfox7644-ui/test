@@ -1,1 +1,1 @@
-consider the core document Multivalent_SAAS agreement_IndiGo basis which few fields of the data processing agreement needs re-thinking and redrafting. please help to correct specially considering my comments and sections CATEGORIES OF DATA SUBJECTS, CATEGORIES OF PERSONAL DATA , NATURE AND PURPOSE OF THE PROCESSING 
+Consider the comments made by Anshu we must make changes in the sections which she asked us, not for the vendor. please draft the required changes
