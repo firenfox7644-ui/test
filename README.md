@@ -1,1 +1,1 @@
-consider teh content of the Lagoone_technical Proposal file using the content of the this file you are requested to read the comments of the upasana and provide the appropriate changes /correction in the SAAS agreement-Indigo.
+Consider the text as shared under the file Managed_testing_services_clarification the 100% text need to be added into the IndiGo_ManagedTestingServices document. please help me where to add the text into the Indigo managedtestingservices
