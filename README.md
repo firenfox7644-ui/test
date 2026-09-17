@@ -1,1 +1,1 @@
-Consider the text as shared under the file Managed_testing_services_clarification the 100% text need to be added into the IndiGo_ManagedTestingServices document. please help me where to add the text into the Indigo managedtestingservices
+critically exams the ratings shared under column heading E,F,G,H and realted comment on the I,J,K,L. for example it is observed that if rating is given 4 the associated comments are similar to the ratings given for 1. you have to identify all the gaps in ratings and comments and present the report in the tabular format.
