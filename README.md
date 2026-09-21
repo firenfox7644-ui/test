@@ -1,1 +1,1 @@
-critically exams the ratings shared under column heading E,F,G,H and realted comment on the I,J,K,L. for example it is observed that if rating is given 4 the associated comments are similar to the ratings given for 1. you have to identify all the gaps in ratings and comments and present the report in the tabular format.
+
