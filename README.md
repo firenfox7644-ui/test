@@ -1,1 +1,1 @@
-consider the details mentioned in the attached document, critically analyse the content and provide me the tabular information on the improvments/ critical areas. so that quality of the document can be enhanced
+consider the content of the complete document and suggest me the response to the comments made by the various stakeholders. i need to share this with the legal team.
