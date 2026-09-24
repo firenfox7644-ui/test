@@ -1,1 +1,1 @@
-consider the content of the complete document and suggest me the response to the comments made by the various stakeholders. i need to share this with the legal team.
+Critically analyse the Qualtrics response containing the commercial proposal and the NFA for Qualtrics, crtically analyse the content of the NFA and match with Qualtrics response, you need to take the Qualtrics response as the base document, provide the pointers in the tabular format, for the presentation to the CFO of the company, it must be concise and to the point
