@@ -1,1 +1,1 @@
-Critically analyse the Qualtrics response containing the commercial proposal and the NFA for Qualtrics, crtically analyse the content of the NFA and match with Qualtrics response, you need to take the Qualtrics response as the base document, provide the pointers in the tabular format, for the presentation to the CFO of the company, it must be concise and to the point
+consider the format requirement of the NFA, you are requested to provide the  very concise information to be presented to the Management based on the qualtrics response document attached to this conversation.
