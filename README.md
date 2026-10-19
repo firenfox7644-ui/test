@@ -1,6 +1,14 @@
 Based on the following Major points under the Evaluation areas (keep it as it is), for each vendor provide the ratings as High, Medium , Low which needs to be share with CEO level of Indigo based on the excel file shared herewith
 S. No.	Evaluation Area
-1	Customer & Audience Management
+1	Booking Funnel Optimization & Conversion
+	
+	
+	
+	
+	
+	
+	
+2	Customer Segmentation
 	
 	
 	
@@ -10,7 +18,10 @@ S. No.	Evaluation Area
 	
 	
 	
-2	Campaign Management
+	
+	
+	
+3	Personalization Engine
 	
 	
 	
@@ -19,7 +30,13 @@ S. No.	Evaluation Area
 	
 	
 	
-3	Journey Orchestration
+	
+	
+	
+	
+	
+	
+4	Context-Aware UI Personalization
 	
 	
 	
@@ -27,7 +44,6 @@ S. No.	Evaluation Area
 	
 	
 	
-4	Multi-Channel Communication
 	
 	
 	
@@ -35,17 +51,8 @@ S. No.	Evaluation Area
 	
 	
 	
-5	Personalisation & Decisioning
 	
-	
-	
-	
-	
-	
-6	AI-Assisted Marketing
-	
-	
-7	Analytics & Reporting
+5	AI-Powered Decisioning & Optimization
 	
 	
 	
@@ -53,25 +60,135 @@ S. No.	Evaluation Area
 	
 	
 	
-8	Integrations
-	
-	
-	
-	
-9	Administration & Governance
-	
-	
-	
-	
-10	Consent, Preference & Compliance
 	
 	
 	
 	
 	
 	
-11	Migration & Transition
 	
 	
 	
-<img width="227" height="26782" alt="image" src="https://github.com/user-attachments/assets/3865e278-15a2-489e-993b-8b4af7ba354f" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+6	Ancillary Revenue
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+7	Loyalty Management
+	
+	
+	
+	
+	
+	
+	
+	
+	
+8	Abandon Cart Recovery
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+9	Journey Orchestration & Real-Time Engagement
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+10	Experimentation Platform
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+11	No-Code / Low-Code Business Enablement
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+12	Measurement, Analytics & Business Impact
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+![Uploading image.png…]()
