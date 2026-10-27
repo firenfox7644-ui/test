@@ -1,11 +1,1 @@
-Reference discussion, we need to build an extensive report covering the following areas. Pls add any additional points if I have missed anything 
-
-1.	Plot vendor level rating under Compliant, Non C, Partial
-2.	Review for higher weightage in evaluation checklist for all mandatory and Must haves 
-3.	Select vendor as first best, second best and third to build story
-4.	Raise SR > separate RFP document in one SR
-5.	Separate RFP for Brand visibility and Site Optimizer 
-6.	Summary against all 3 stacks with storyline, break this into numbers and justification. 
-Executive Recommendation
-A clear summary highlighting the preferred vendor, expected business value, key differentiators, risks, and justification for selection.
-This report needs to be data-driven, backed by evaluation scores, compliance analysis, and business justification to support the final recommendation and procurement decision.
+I need to present the information the CEO level individual, who dont have time and inclination to go thought the technical specification at the low level, would request you to kindly help me preparing the concise information which can be share to CEO for the decision.  utlimetly we need to choose adobe as the partner for the technology. please act like expert and guide me
