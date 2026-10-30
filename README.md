@@ -1,10 +1,22 @@
-Category	DetailsResource Headcount Model	Proposed team size (20-member / 26-member structure) is vendor-defined. The RFP asks for support coverage and service delivery but does not prescribe a specific headcount.
-Monitoring Team Composition	Dedicated monitoring team and its size are vendor-specific implementation details and are not mandated in the RFP.
-Internal Organization Structure	Delivery hierarchy, reporting structure, and team organization charts are vendor-specific and not required by the RFP.
-Automation-Based Headcount Optimization	Resource reduction and efficiency assumptions driven by automation are proposed by the vendor and are not an RFP requirement.
-Staffing Assumptions	Shift allocation, role distribution, and resource planning assumptions are implementation choices rather than mandatory RFP conditions.
-Conclusion
-Assessment	ResultFunctional Requirements Missing from RFP	None
-Non-Functional Requirements Missing from RFP	None
-Scope Categories Missing from RFP	None
-Vendor-Specific Items Not Defined in RFP	Resource model, monitoring team structure, organization hierarchy, staffing assumptions, and automation-led optimization approach.
+Differences Only: ITSM WNM Technical Proposal (New) vs AIONOS ITSM Updated Proposal (Old)
+Section	AIONOS ITSM (Old)	ITSM WNM (New)	Difference ImpactResource Model	Based on a 20-member support structure.	Revised to a 26-member RUN support structure.	Major staffing change
+Monitoring Team	Monitoring resources not explicitly reflected within the base RUN headcount.	Monitoring team explicitly included as part of the RUN organization.	Clarification of resource allocation
+Headcount Reduction Narrative	Focused on optimization of L2 resources through automation.	Revised optimization approach reflecting the larger 26-resource model and monitoring coverage.	Updated staffing rationale
+Assumptions Section	Limited reference to monitoring team's role throughout contract duration.	Explicitly states monitoring resources remain part of delivery operations.	Additional clarity
+Organization Structure Diagram	Based on previous staffing construct.	Updated organization structure aligned to revised team sizing.	Structural update
+No Differences Identified
+Category	StatusFunctional Requirements Coverage	No Change
+Non-Functional Requirements Coverage	No Change
+Scope of Services	No Change
+Architecture & Solution Design	No Change
+DevRev Platform Capabilities	No Change
+Integrations (ServiceNow, Jira, Grafana, etc.)	No Change
+AI / Automation Capabilities	No Change
+SLA Approach	No Change
+Security & Compliance	No Change
+Governance Model	No Change
+Assumptions & Dependencies (except staffing references)	No Material Change
+Exclusions	No Change
+Commercial Scope	No Change Identified
+Licensing Scope	No Change Identified
+Case Studies & References	No Change
