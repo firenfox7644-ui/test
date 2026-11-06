@@ -1,9 +1,1 @@
-following is the ask of the procurment team. can you identify what needs to be done: Hi Rohit,
-
-We request you to provide a comprehensive technical evaluation covering all aspects of the managed services scope for eg. SLAs, ticket sizing, deployment etc.
-
-Additionally, please benchmark Aionos's offering against the other participating vendors and provide a detailed comparison of the technical capabilities, service scope, and value-added offerings proposed by each vendor.
-
-Regards,
-Nikhil Mittal
-
+i need to present the executive summary to the top level of management, but i am not able to create the professional single executive summary combining RFP-Enterprise Digital Analytics Platform,RFP-Personalization and Experimentation Platform,RFP-OCM and MarTech. please help me creating the one based on the attached file:
