@@ -1,9 +1,1 @@
-Please help me to fill the NFA, consider the context of the attached file, since KPMG has won the RFP, and we will be having the contract with KPMG< the commercials are yet to be available from the procurement team, i need to create the format so that only commercials can be copy paste later but format of the NFA is full, The particpant vendors in the RFP were Capgemini,Accenture, Cognizant ,Adobe ,KPMG, Haxaware
-below is the NFA format to be filled: Date
-Subject
-Final Price, Terms, Contract Period etc.
-Preface & Key Points
-Participating Vendors 
- Vendor Justification
-Commercials
-Recommendation on which approval is being sought 
+in the current excel workbook there is executive summary MarTech which contains the formula that derives it values from the functional evaluation martech sheet. somehow the values from the row D4... J4 till D14....J14 are not correcly being displayed. there is some problem with the forumula used. can you please help me in identifying the error in the formula.
